@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Pause/>
+    <Say voice="woman">This is a message from Asurion.</Say>
+    <Pause/>
+    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Pause/>
+    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Pause/>
+    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Pause/>
+    <Say voice="woman">Thank you.</Say>
+    <Hangup/>
+</Response>
