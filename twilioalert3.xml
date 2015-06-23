@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Pause/>
-    <Say voice="woman">This is a message from Assurion.</Say>
+    <Say voice="alice">This is a message from Assurion.</Say>
     <Pause/>
-    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Say voice="alice">Citrix incident in progress. Please check your messages.</Say>
     <Pause/>
-    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Say voice="alice">Citrix incident in progress. Please check your messages.</Say>
     <Pause/>
-    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Say voice="alice">Citrix incident in progress. Please check your messages.</Say>
     <Pause/>
-    <Say voice="woman">Thank you.</Say>
+    <Say voice="alice">Thank you.</Say>
     <Hangup/>
 </Response>
