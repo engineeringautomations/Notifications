@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Pause/>
-    <Say voice="alice">This is a message from Ashurion.</Say>
+    <Say voice="alice">This is a message from Ashurion. Citrix incident in progress. Please check your messages.</Say>
     <Pause/>
-    <Say voice="alice">Citrix incident in progress. Please check your messages.</Say>
+    <Say voice="alice">This is a message from Ashurion. Citrix incident in progress. Please check your messages.</Say>
     <Pause/>
-    <Say voice="alice">Citrix incident in progress. Please check your messages.</Say>
-    <Pause/>
-    <Say voice="alice">Citrix incident in progress. Please check your messages.</Say>
+    <Say voice="alice">This is a message from Ashurion. Citrix incident in progress. Please check your messages.</Say>
     <Pause/>
     <Say voice="alice">Thank you.</Say>
     <Hangup/>
